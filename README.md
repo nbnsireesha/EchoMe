@@ -22,6 +22,7 @@
 ## 🚀 Development Setup
 
 ### Option 1: Using [uv](https://github.com/astral-sh/uv) (Recommended)
+
 ```bash
 # Install uv
 curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -36,9 +37,11 @@ uv sync
 
 # Run the application
 uv run python app.py
-
+```
 
 ### Option 2: Using pip + venv (Standard)
+
+```bash
 # Clone the repository
 git clone <your-repo-url>
 cd EchoMe
@@ -52,19 +55,24 @@ pip install -r requirements.txt
 
 # Run the application
 python app.py
-
+```
 
 ### Environment Variables
-Create a .env file in the root of your project with the following:
+
+Create a `.env` file in the root of your project with the following variables:
+
+```bash
+# Required: OpenAI API key for AI model access
 OPENAI_API_KEY=your_openai_api_key
 
-# Email settings (optional, for lead notifications)
-EMAIL_SENDER=you@example.com
-EMAIL_PASSWORD=your_email_password_or_app_password
+# Optional: Email settings for lead capture notifications
+EMAIL_ADDRESS=your_email@example.com
+EMAIL_APP_PASSWORD=your_email_app_password
 EMAIL_RECEIVER=destination@example.com
-#Hugging faces settings (optional, for deploying)
-HF_TOKEN=your_huging_faces_token # hugging faces token
 
+# Optional: Hugging Face settings for deployment
+HF_TOKEN=your_hugging_face_token
+```
 
 ## 📦 Dependencies
 This project uses Python 3.12 and includes dependencies for:
