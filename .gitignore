@@ -1,9 +1,6 @@
 __pycache__/
 .env
 *.pyc
-*.pdf
-me/Profile.pdf
-me/summary.txt
 venv/
 *.egg-info/
 .venv/

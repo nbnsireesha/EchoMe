@@ -1,0 +1,54 @@
+I hold a profound passion for exploring complex challenges and using cutting-edge web technologies to overcome them. My approach to work is characterized by an unwavering commitment.
+
+Over the course of my career, I've undertaken various roles at diverse companies, each presenting a distinct set of responsibilities. These positions have spanned from maintaining corporate websites to contributing to the development of in-house projects. Not only have I found immense satisfaction in each role, but I've consistently excelled in them.
+
+My professional value can be encapsulated in the following core areas:
+
+Execution Excellence: I possess the capability to excel in any task entrusted to me, consistently delivering exceptional outcomes. This proficiency is rooted in my profound grasp of programming fundamentals, outstanding troubleshooting and debugging skills, and my unwavering commitment to leveraging my knowledge and experience to execute tasks with a strong sense of responsibility.
+
+Team Collaboration: I am a valuable asset to any team. I willingly share my knowledge with fellow team members, facilitate the onboarding of new colleagues, and actively engage in collaborative efforts with my peers, making me highly approachable to all my coworkers.
+
+Continuous Self-Improvement: I am dedicated to my personal growth. I thrive on tackling challenging and intricate tasks, pushing my own boundaries, and maintaining an insatiable curiosity about emerging industry trends and technologies. This drive has led me to achieve MVP status in numerous sprints. I actively seek out and value the knowledge and experience of others to continually refine and enhance my skill set.
+
+Career break after USAA experence: Dedicated time for personal growth and family establishment during maternity break. This period included intentional upskilling in [mention technical skills like AWS, Python, Agentic AI], allowing for a renewed and expanded technical foundation. Successfully managed a demanding personal schedule to remain current with industry advancements and cultivate essential soft skills in time management, prioritization, and resilience.
+
+Relocating: I'm prefer staying in Denver, CO area and open to Colorado Springs, CO
+
+As a frontend engineer with over five years of experience, I’ve always been passionate about
+crafting web applications that not only perform well but also delight users. At USAA, I took
+pride in building interactive, data-driven applications that improved engagement and streamlined
+workflows. My expertise spans technologies like React, Java, Python, GraphQL, and modern
+JavaScript frameworks, all of which I used to design and maintain scalable, intuitive user
+interfaces. Collaborating closely with product managers and designers, I also brought concepts to
+life using design systems like Figma, ensuring a perfect balance of form and function.
+One of the moments that shaped my love for frontend development was working on a budgeting
+tool and monthly expense chart project. Designing these features to help users visualize and
+manage their finances in an intuitive and interactive way was incredibly rewarding. Seeing how
+these tools empowered users to make informed financial decisions reinforced my belief in the
+importance of creating user-friendly digital experiences.
+
+
+Throughout my career, I have been passionate about building scalable and high-performance web applications. At USAA, I played a key role in developing interactive, data-driven interfaces using React, Next.js, and TypeScript while collaborating closely with product managers and designers to enhance user experiences. My expertise in building reusable React components, optimizing performance, and implementing testing frameworks such as Playwright and Jest aligns well with Respondology’s need for a front-end-focused engineer. Additionally, my experience working with GraphQL, PostgreSQL, and back-end frameworks like Node.js and Ruby on Rails equips me with the versatility needed to contribute across the stack.
+One of the moments that shaped my love for frontend development was working on a budgeting tool and monthly expense chart project. Designing these features to help users visualize and manage their finances in an intuitive and interactive way was incredibly rewarding. Seeing how these tools empowered users to make informed financial decisions reinforced my belief in the importance of creating user-friendly digital experiences.
+I am particularly drawn to this opportunity because of Respondology’s commitment to leveraging technology for good. The idea of developing solutions that not only enhance brand engagement but also promote healthy online interactions resonates deeply with my values as a developer. I thrive in collaborative environments where I can take ownership of projects, innovate, and work alongside cross-functional teams to drive impactful results.
+
+
+In my previous full stack role, I worked across both the React frontend and Java backend, taking ownership of end-to-end feature delivery. My responsibilities included designing clean and intuitive UIs, collaborating closely with product owners and solution architects to gather and refine requirements, and working with API developers to assess feasibility, define boundaries, and provide accurate effort estimates.
+
+I was actively involved in Agile practices such as sprint planning, retrospectives, backlog refinement, PI planning, and code reviews. I played a hands-on role in all these ceremonies, contributing to continuous improvement and ensuring delivery stayed aligned with business goals.
+
+On the production side, I participated in pilot user support, production releases, and 24/7 on-call rotations. I used tools like Kibana, Grafana, OpenShift, and Datadog to troubleshoot and resolve issues quickly, minimizing downtime and impact.
+
+Since I’ve worked in a fully remote environment, I strongly believe in over-communication — keeping managers and coworkers in the loop through clear updates and active collaboration. I document all processes we follow and log anything new we try as a team, which helps unblock future work and brings transparency to how we operate.
+
+In addition, I regularly participate in Lunch & Learn sessions, where our team shares knowledge across domains — helping everyone grow their skills and understand the broader technical landscape we're working in.
+
+Overall, I bring a balance of technical depth, ownership, communication, and team enablement — all of which are critical in today’s distributed product teams.
+
+Currently, my skill set includes a robust foundation in:
+HTML | CSS | JavaScript | jQuery | Git | XML | JSON | NodeJS | Java | MongoDB | MYSQL
+
+I am presently in the process of acquiring proficiency in:
+Agentic AI, Python
+
+While I have achieved significant milestones, I remain acutely aware that an ongoing journey of learning, problem-solving, and personal growth stretches infinitely ahead.
