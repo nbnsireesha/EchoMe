@@ -2,14 +2,12 @@ from dotenv import load_dotenv
 from openai import OpenAI
 import json
 import os
-import huggingface_hub
 import requests
 from pypdf import PdfReader
 import gradio as gr
 import smtplib
 from email.mime.text import MIMEText
 
-huggingface_hub.login(token=os.environ.get("HF_TOKEN"))
 load_dotenv(override=True)
 
 def send_email(subject, body):
